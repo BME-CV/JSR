@@ -10,3 +10,8 @@ checkpoints/
 checkpoints/
 *.pth
 
+
+# ignore checkpoints / model weights
+checkpoints/
+*.pth
+
